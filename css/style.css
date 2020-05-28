@@ -1,0 +1,74 @@
+html,
+body {
+    font-family: "Dancing Script", cursive;
+    color: #000;
+
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.title {
+    font-size: 32px;
+}
+
+.description {
+    font-size: 20px;
+}
+
+.background {
+    background-image: url("../img/back.jpg");
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    /* filter: grayscale(50%); */
+}
+
+.greyy {
+    background-color: rgba(255, 255, 255, 0.3333);
+    padding: 8px;
+    font-family: 'Abel', sans-serif;
+}
+
+.navbar-light {
+    font-size: 1.2rem;
+
+}
+
+.fab {
+    padding: 8px;
+}
+
+.footer-text {
+    margin: 1px;
+
+}
+
+.page-footer {
+    font-family: 'Abel', sans-serif;
+
+}
+
+.fb-bg {
+    color: #4267B2;
+}
+
+.tw-bg {
+    color: #1DA1F2;
+}
+
+.pin-bg {
+    color: #E60023;
+
+}
+
+.ins-bg {
+    color: #7A42CB;
+}
